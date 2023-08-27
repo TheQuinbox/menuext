@@ -25,7 +25,7 @@ Save the file, return to the Hammerspoon menu extra but this time click the relo
 
 ## Keys.
 
-Use control+command+1-0 to get information about the menu extra in that slot.
+Use option+shift+1-0 to get information about the menu extra in that slot.
 
 ## Credits
 

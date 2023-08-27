@@ -79,7 +79,7 @@ local hotkeys = {}
 
 for i = 0, 9 do
     local key = tostring(i)
-    local hotkey = hs.hotkey.bind("control-command", key, function()
+    local hotkey = hs.hotkey.bind("option-shift", key, function()
         getMenuExtra(i)
     end)
     table.insert(hotkeys, hotkey)
